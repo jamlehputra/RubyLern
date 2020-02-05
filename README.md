@@ -1,4 +1,7 @@
 # RubyLern
 Hari pertama belajar ruby
-Belajar lagiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
-hahahahhaah
+
+
+
+
+Hari Ini Kita belajar
