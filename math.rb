@@ -1,11 +1,11 @@
 # Oder of aritmathical process
 # PEMDAS
 # Paranteses ()
-# Exponential
-# Multipication
-# Divisiom
-# Addition 
-# Subtraction
+# Exponential **
+# Multipication *
+# Division / 
+# Addition + 
+# Subtraction -
 
 puts 1 - 2 + 3 * 4
 puts 1 + 2 - 3 / 4.0
